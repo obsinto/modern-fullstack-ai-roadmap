@@ -207,18 +207,19 @@ FASE 6: INTELIGÊNCIA ARTIFICIAL
 3. `fundamentos-html-css-tailwind.md`
 4. `git-github-profissional.md`
 5. `architecture-decisions.md`
-5. `business-logic.md`
-5. `state-data-flow.md`
-6. `fundamentos-vue-inertia.md`
-7. `apis-system-boundaries.md`
-8. `automated-testing-strategy.md`
-9. `preventing-messes.md`
-10. `application-security-and-roles.md`
-11. `devops-observabilidade.md`
-12. `fundamentos-ia-para-devs.md`
-13. `engenharia-de-prompts.md`
-14. `integracao-llms-aplicacoes.md`
-15. `desenvolvimento-assistido-por-ia.md`
+6. `business-logic.md`
+7. `state-data-flow.md`
+8. `fundamentos-vue-inertia.md`
+9. `apis-system-boundaries.md`
+10. `comunicacao-real-time.md`
+11. `automated-testing-strategy.md`
+12. `preventing-messes.md`
+13. `application-security-and-roles.md`
+14. `devops-observabilidade.md`
+15. `fundamentos-ia-para-devs.md`
+16. `engenharia-de-prompts.md`
+17. `integracao-llms-aplicacoes.md`
+18. `desenvolvimento-assistido-por-ia.md`
 
 ---
 
