@@ -15,6 +15,7 @@ FASE 1: FUNDAMENTOS DA STACK
 ├── PHP 8.x Moderno
 ├── JavaScript Moderno (ES6+)
 ├── HTML, CSS e Tailwind CSS
+├── Git e GitHub Profissional
 └── Decisões Arquiteturais
 
 FASE 2: ARQUITETURA E BACKEND
@@ -174,6 +175,7 @@ FASE 6: INTELIGÊNCIA ARTIFICIAL
 - [ ] fundamentos-php-moderno.md
 - [ ] fundamentos-javascript-moderno.md
 - [ ] fundamentos-html-css-tailwind.md
+- [ ] git-github-profissional.md
 - [ ] architecture-decisions.md
 - [ ] business-logic.md
 - [ ] state-data-flow.md
@@ -203,7 +205,8 @@ FASE 6: INTELIGÊNCIA ARTIFICIAL
 1. `fundamentos-php-moderno.md`
 2. `fundamentos-javascript-moderno.md`
 3. `fundamentos-html-css-tailwind.md`
-4. `architecture-decisions.md`
+4. `git-github-profissional.md`
+5. `architecture-decisions.md`
 5. `business-logic.md`
 5. `state-data-flow.md`
 6. `fundamentos-vue-inertia.md`
